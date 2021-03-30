@@ -1,9 +1,1 @@
 ### Most of the code here was used to learn something new and is not maintained.
----
-- 🔭 I’m currently working on a game called Dinky.
-- 🌱 I’m currently learning how to use Github to the fullest extent.
-- 👯 I’m looking to collaborate on a video game!
-- 💬 Ask me about that time I met John Carmack.
-- 📫 How to reach me: j.behanna@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a dog named Samus.
