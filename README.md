@@ -1,4 +1,4 @@
-Most of the code here was used to learn something new and is not maintained. Feel free to use anything you find!
+### Most of the code here was used to learn something new and is not maintained.
 ---
 - 🔭 I’m currently working on a game called Dinky.
 - 🌱 I’m currently learning how to use Github to the fullest extent.
