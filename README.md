@@ -1,4 +1,4 @@
-![nihiven](https://img.shields.io/badge/nihiven-'23-pink)
+![nihiven](https://img.shields.io/badge/nihiven-'23-pink) ![nihiven](https://img.shields.io/badge/nihiven-'24-purple)
 
 I am a big fan of La Colombe coffee.
 ---
